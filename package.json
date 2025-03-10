@@ -1,0 +1,18 @@
+{
+  "name": "threejs-landscape",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.2.0"
+  },
+  "dependencies": {
+    "fastnoise-lite": "^1.1.1",
+    "three": "^0.174.0"
+  }
+}
